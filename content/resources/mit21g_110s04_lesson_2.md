@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a71475eb-b75e-1fd6-628f-04266230cae1
 resourcetype: Document
 title: Microsoft Word - Lesson-2
 uid: da38bcc2-fab2-9ef5-a533-ba7e544c5bbc

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d27e7d98-c8e1-3902-924f-d953886f365a
 resourcetype: Document
 title: Microsoft Word - L-1 homework
 uid: ced6011e-3d70-9420-b209-7050f6916dc2

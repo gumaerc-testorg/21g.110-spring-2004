@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a71475eb-b75e-1fd6-628f-04266230cae1
 resourcetype: Other
 title: Lesson5.mp3
 uid: be31a655-1686-a799-b8a1-cbe81ec78707

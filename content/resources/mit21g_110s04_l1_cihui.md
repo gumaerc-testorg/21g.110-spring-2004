@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a71475eb-b75e-1fd6-628f-04266230cae1
 resourcetype: Document
 title: Microsoft Word - L-1 cihui
 uid: 8d6f33d3-b4fb-2832-56c7-03c7c592c1c8
