@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Assignments
 uid: d27e7d98-c8e1-3902-924f-d953886f365a
 ---
 
-{{< anchor "Top" >}}{{< /anchor >}}[Homework assignments](#Homework) are available for this course. Practice materials for listening, grammar and word usage are available in the [study materials]({{< baseurl >}}/pages/study-materials) section of this course.
+{{< anchor "Top" >}}{{< /anchor >}}[Homework assignments](#Homework) are available for this course. Practice materials for listening, grammar and word usage are available in the {{% resource_link a71475eb-b75e-1fd6-628f-04266230cae1 "study materials" %}} section of this course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -1395,16 +1396,16 @@ presentation and research.
 
 **Homework** {{< anchor "Homework" >}}{{< /anchor >}}([back to top](#Top))
 
-[Lesson 1 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_1_homework)
+{{% resource_link ced6011e-3d70-9420-b209-7050f6916dc2 "Lesson 1 (PDF)" %}}
 
-[Lesson 2-F (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_2_f)
+{{% resource_link 3c04d620-a9b0-b7ab-fe6a-a9bcc8ffcc4f "Lesson 2-F (PDF)" %}}
 
-[Lesson 2-J (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_2_j)
+{{% resource_link 1094a431-05d7-f932-fecf-74afc472af80 "Lesson 2-J (PDF)" %}}
 
-[Lesson 3 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_3)
+{{% resource_link 236d1803-3534-bcd6-9ca6-55aac8d273db "Lesson 3 (PDF)" %}}
 
-[Lesson 4 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_4)
+{{% resource_link a98c00fa-e144-9900-a90c-e0a7beffcdad "Lesson 4 (PDF)" %}}
 
-[Lesson 5 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_5)
+{{% resource_link 7f67fb42-318a-8cd4-37b4-5100eff67d5c "Lesson 5 (PDF)" %}}
 
-[Lesson 7 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l_7)
+{{% resource_link a7e142cd-1161-db41-e824-2c08a8ec0b36 "Lesson 7 (PDF)" %}}

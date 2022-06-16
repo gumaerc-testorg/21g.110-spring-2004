@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -19,20 +20,20 @@ Lesson 7 ([MP3 - 1.8MB](/ans7870/21f/21f.110/s04/studymaterials/Lesson7.mp3))
 Grammar Practice
 ----------------
 
-[Grammar Practice 1 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_1)  
-[Grammar Practice 2 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_2)  
-[Grammar Practice 2F (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_2f)  
-[Grammar Practice 3 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_3)  
-[Grammar Practice 4 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_4)  
-[Grammar Practice 5 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_5)  
-[Grammar Practice 7 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_lesson_7)
+{{% resource_link c0a8700e-4583-7f19-2fd3-03b192d9e87f "Grammar Practice 1 (PDF)" %}}  
+{{% resource_link da38bcc2-fab2-9ef5-a533-ba7e544c5bbc "Grammar Practice 2 (PDF)" %}}  
+{{% resource_link d80ea43c-465d-ff86-e242-4ee83ce15d20 "Grammar Practice 2F (PDF)" %}}  
+{{% resource_link 740c4e1e-a8e9-7299-a476-c72ebfe0ccd0 "Grammar Practice 3 (PDF)" %}}  
+{{% resource_link fc2f04f9-7fba-fb61-e09a-8440eb55b0ac "Grammar Practice 4 (PDF)" %}}  
+{{% resource_link 4633b4d9-c00f-31e4-f810-0867fb9deaa0 "Grammar Practice 5 (PDF)" %}}  
+{{% resource_link b5c0d5cd-0136-f999-3ed6-e56c243838a5 "Grammar Practice 7 (PDF)" %}}
 
 Word Usage Practice
 -------------------
 
-[Lesson 1 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l1_cihui)  
-[Lesson 2 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l2)  
-[Lesson 3 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l3)  
-[Lesson 4 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l4)  
-[Lesson 5 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l5)  
-[Lesson 7 (PDF)]({{< baseurl >}}/resources/mit21g_110s04_l7)
+{{% resource_link 8d6f33d3-b4fb-2832-56c7-03c7c592c1c8 "Lesson 1 (PDF)" %}}  
+{{% resource_link 8e2ab0b4-faae-af29-9cb8-ee9f18be8f8f "Lesson 2 (PDF)" %}}  
+{{% resource_link c7d403d3-749b-afb6-06c5-76b1c04189aa "Lesson 3 (PDF)" %}}  
+{{% resource_link 0d6aea40-bd65-ceb3-305e-3c7bfaf183bf "Lesson 4 (PDF)" %}}  
+{{% resource_link ce4eeb2b-a802-25b8-bfad-b78e4e083796 "Lesson 5 (PDF)" %}}  
+{{% resource_link 7d8a4683-a74c-54af-1b37-fdda74fd9a62 "Lesson 7 (PDF)" %}}
