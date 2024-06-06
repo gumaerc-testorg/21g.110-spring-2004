@@ -2,6 +2,7 @@
 content_type: resource
 description: Audio file for Lesson 5 listening practice.
 file: /courses/21g-110-chinese-iv-streamlined-spring-2004/be31a6551686a799b8a1cbe81ec78707_Lesson5.mp3
+file_size: 1890221
 file_type: audio/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
