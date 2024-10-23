@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Audio file for Lesson 4 listening practice.
-file: /courses/21g-110-chinese-iv-streamlined-spring-2004/6f4691b58a3b69eb7cb4220b3c2bc82d_Lesson4.mp3
+file: /ol-ocw-studio-app/courses/21g-110-chinese-iv-streamlined-spring-2004/6f4691b58a3b69eb7cb4220b3c2bc82d_Lesson4.mp3
 file_size: 950126
 file_type: audio/mpeg
 learning_resource_types: []
