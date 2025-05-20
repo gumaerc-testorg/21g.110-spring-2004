@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lesson 5.
-file: /ol-ocw-studio-app/courses/21g-110-chinese-iv-streamlined-spring-2004/4633b4d9c00f31e4f8100867fb9deaa0_MIT21G_110S04_Lesson_5.pdf
+file: /courses/21g-110-chinese-iv-streamlined-spring-2004/4633b4d9c00f31e4f8100867fb9deaa0_MIT21G_110S04_Lesson_5.pdf
 file_size: 630726
 file_type: application/pdf
 learning_resource_types: []
