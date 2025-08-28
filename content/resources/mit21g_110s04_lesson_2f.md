@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lesson 2f.
-file: /courses/21g-110-chinese-iv-streamlined-spring-2004/d80ea43c465dff86e2424ee83ce15d20_MIT21G_110S04_Lesson_2f.pdf
+file: /ol-ocw-studio-app/courses/21g-110-chinese-iv-streamlined-spring-2004/d80ea43c465dff86e2424ee83ce15d20_MIT21G_110S04_Lesson_2f.pdf
 file_size: 619853
 file_type: application/pdf
 learning_resource_types: []

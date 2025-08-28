@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Audio file for Lesson 2b listening practice.
-file: /courses/21g-110-chinese-iv-streamlined-spring-2004/808a4d18fb190f947b2667491f654563_Lesson2b.mp3
+file: /ol-ocw-studio-app/courses/21g-110-chinese-iv-streamlined-spring-2004/808a4d18fb190f947b2667491f654563_Lesson2b.mp3
 file_size: 1241320
 file_type: audio/mpeg
 learning_resource_types: []

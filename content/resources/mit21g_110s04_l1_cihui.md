@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lesson 1.
-file: /courses/21g-110-chinese-iv-streamlined-spring-2004/8d6f33d3b4fb283256c703c7c592c1c8_MIT21G_110S04_L1_cihui.pdf
+file: /ol-ocw-studio-app/courses/21g-110-chinese-iv-streamlined-spring-2004/8d6f33d3b4fb283256c703c7c592c1c8_MIT21G_110S04_L1_cihui.pdf
 file_size: 91836
 file_type: application/pdf
 learning_resource_types: []
